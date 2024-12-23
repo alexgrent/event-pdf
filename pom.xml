@@ -6,7 +6,7 @@
 
     <groupId>org.reactome.server.tools</groupId>
     <artifactId>event-pdf</artifactId>
-    <version>2.145.0</version>
+    <version>1.1.10</version>
     <packaging>jar</packaging>
 
 	<name>event-pdf</name>
